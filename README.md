@@ -1,12 +1,12 @@
 
-Hi, I'm Abhinay!  
-🌐 [Portfolio](https://abhinay-chary-portfolio.vercel.app)  
+Hi, I'm Pranay!  
+🌐 [Portfolio](https://portfolio-pranay-kumars-projects-28c2f44a.vercel.app/)  
 💻 Frontend Dev | React, Java (NPTEL), JavaScript
 
 A professional single-page application showcasing my frontend development expertise and certifications. Built with React Vite and Tailwind CSS, this portfolio highlights my skills in React, JavaScript, HTML, CSS, and Java, tailored for Web Development Intern roles and future Software Engineer positions.
 
-🌐 **Live Demo**: [portfolio-abhinay-x.vercel.app](https://abhinay-chary-portfolio.vercel.app/)  
-📂 **GitHub**: [github.com/abhinay-x/portfolio](https://github.com/abhinay-x/portfolio)
+🌐 **Live Demo**: [portfolio-pranay-kumars-projects-28c2f44a.vercel.app](https://portfolio-pranay-kumars-projects-28c2f44a.vercel.app/)  
+📂 **GitHub**: [github.com/Pranay-chary/portfolio](https://github.com/Pranay-chary/portfolio)
 
 ## Features
 
@@ -52,7 +52,7 @@ portfolio/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abhinay-x/portfolio.git
+   git clone https://github.com/Pranay-chary/portfolio.git
    cd portfolio
    ```
 
@@ -86,13 +86,7 @@ portfolio/
 ### Additional Certifications
 - **CSS Advanced** (Skillsoft, Apr 2025)
 - **Python Programming** (Cisco PCAP, May 2024)
-- **Data Structures** (CodeChef, Nov 2024)
-  - Arrays, Linked Lists, Trees in Java
-  - Algorithm complexity and optimization
-- **Cloud Computing** (IBM Coursera, Feb 2024)
-- **DevOps Tools** (Simplilearn, Nov 2024)
 - **Modern AI** (Cisco, Apr 2025)
-- **Azure Basics** (Microsoft Learn, Nov 2024)
 
 ### Technical Skills
 - **Languages**: Java, JavaScript, Python, HTML5, CSS3
@@ -106,8 +100,8 @@ portfolio/
 I'm a third-year B.Tech CSE student at Vignan Institute of Technology and Science, Hyderabad. I specialize in frontend development with React and JavaScript, backed by certifications in Java, Python, and Cloud Computing. Currently seeking Web Development Internships in Hyderabad or remotely, with a goal of becoming a Software Engineer by 2026.
 
 📫 **Connect**:  
-- LinkedIn: [linkedin.com/in/abhinay-chary](https://linkedin.com/in/abhinay-chary)  
-- GitHub: [github.com/abhinay-x](https://github.com/abhinay-x)
+- LinkedIn: [linkedin.com/in/pranay-indrakanti](www.linkedin.com/in/pranay-indrakanti)  
+- GitHub: [github.com/Pranay-chary](https://github.com/Pranay-chary)
 
 ## Future Improvements
 
@@ -117,4 +111,4 @@ I'm a third-year B.Tech CSE student at Vignan Institute of Technology and Scienc
 
 ## License
 
-MIT © 2025 Abhinay Chary
+MIT © 2025 Pranay Kumar
